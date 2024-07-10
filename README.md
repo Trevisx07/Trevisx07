@@ -25,3 +25,7 @@
 [![](https://visitcount.itsvg.in/api?id=Trevisx07&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Trevisx07/Trevisx07/output/snake.svg" alt="Snake animation" />
+
