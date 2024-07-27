@@ -15,6 +15,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Trevisx07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trevisx07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## GSSoC'24 Badges
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Trevisx07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
