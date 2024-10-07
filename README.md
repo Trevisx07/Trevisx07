@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
-<h3 align="center">𝐃𝐫𝐞𝐚𝐦𝐞𝐫 | 𝐁𝐞𝐥𝐢𝐞𝐯𝐞𝐫 | 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐫</h3>
+<h3 align="center">"🎓 College. ☕️ Coffee. 💻 Code. Repeat."</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning Front End Web Developement and Blockchain<br><br>👨‍💻 All of my projects are available at https://github.com/Trevisx07
