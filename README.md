@@ -2,7 +2,7 @@
 <h3 align="center">"🎓 College. ☕️ Coffee. 💻 Code. Repeat."</h3>
 
 # 💫 About Me:
-<br><br>👨‍💻 All of my projects are available at https://github.com/Trevisx07
+👨‍💻 All of my projects are available at https://github.com/Trevisx07
 
 
 ## 🌐 Socials:
