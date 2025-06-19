@@ -2,6 +2,10 @@
 <h3 align="center">"🎓 College. ☕️ Coffee. 💻 Code. Repeat."</h3>
 
 # 💫 About Me:
+--> Hey there! I’m someone who enjoys exploring new ideas and building things that actually matter. Currently diving into world of AI and always curious about how tech can solve real-world problems. I love building stuff with code, turning ideas into something real, and all things creative—whether it’s coding, designing, or collaborating with teams.
+
+Always up to connect, learn, and build cool stuff together:)
+
 👨‍💻 All of my projects are available at https://github.com/Trevisx07
 
 
