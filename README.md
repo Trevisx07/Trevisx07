@@ -1,6 +1,6 @@
 ![Master Image](https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&h=300&q=80)
 
-<h1 align="center">Hello 👋, I'm Het Patel. Building the future with AI & Intelligence..!</h1>
+<h1 align="center">Hello 👋, I'm Het Patel.</h1>
 
 - 🔭 Passionate on **Autonomous Multi-Agent Systems, RAG Pipelines, and LLM-based solutions**
 
